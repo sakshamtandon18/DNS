@@ -1,0 +1,4 @@
+timestamp,domain,query_type,response
+not-a-date,example.com,A,200
+2026-11-23T10:04:02,,A,200
+2026-11-23T10:04:03,valid.example,A,200

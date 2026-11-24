@@ -1,0 +1,13 @@
+timestamp,domain,query_type,response
+2026-11-23 11:30:01,google.com,A,NOERROR
+2026-11-23 11:30:03,youtube.com,A,NOERROR
+2026-11-23 11:30:05,github.com,AAAA,NOERROR
+2026-11-23 11:30:07,instagram.com,A,NOERROR
+2026-11-23 11:30:09,video-cdn.example,A,NXDOMAIN
+2026-11-23 11:30:10,video-cdn.example,A,NXDOMAIN
+2026-11-23 11:30:11,video-cdn.example,A,NXDOMAIN
+2026-11-23 11:30:13,microsoft.com,A,NOERROR
+2026-11-23 11:30:15,amazon.com,AAAA,NOERROR
+2026-11-23 11:30:17,video-cdn.example,AAAA,SERVFAIL
+2026-11-23 11:30:19,wikipedia.org,A,NOERROR
+2026-11-23 11:30:21,openai.com,A,NOERROR

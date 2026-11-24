@@ -1,0 +1,9 @@
+timestamp,domain,query_type,response
+2026-11-23T10:02:01,repeat.example,A,200
+2026-11-23T10:02:02,repeat.example,A,200
+2026-11-23T10:02:03,repeat.example,A,200
+2026-11-23T10:02:04,repeat.example,A,200
+2026-11-23T10:02:05,repeat.example,A,200
+2026-11-23T10:02:06,repeat.example,A,200
+2026-11-23T10:02:07,repeat.example,A,200
+2026-11-23T10:02:08,other.example,AAAA,200
