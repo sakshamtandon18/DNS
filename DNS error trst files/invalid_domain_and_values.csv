@@ -1,0 +1,7 @@
+timestamp,domain,query_type,response
+not-a-date,google.com,A,NOERROR
+2026-11-23 17:20:02,,A,NXDOMAIN
+2026-11-23 17:20:03,bad domain name,A,NXDOMAIN
+2026-11-23 17:20:04,example,UNKNOWN,SERVFAIL
+2026-11-23 17:20:05,youtube.com,AAAA,NOERROR
+2026-11-23 17:20:06,-invalid-.example,A,NXDOMAIN
