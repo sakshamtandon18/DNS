@@ -1,0 +1,11 @@
+timestamp,src_ip,domain,query_type,response_code
+10:00:01,192.168.1.10,google.com,A,NOERROR
+10:00:02,192.168.1.10,youtube.com,A,NOERROR
+10:00:03,192.168.1.11,example.com,MX,NOERROR
+10:00:04,192.168.1.12,a.b.c.d.e.f.g.example.com,TXT,NOERROR
+10:00:05,192.168.1.12,this-is-a-very-long-domain-name-used-for-testing-dns-anomalies.example.com,A,NXDOMAIN
+10:00:06,192.168.1.12,unknown1.example.com,A,NXDOMAIN
+10:00:07,192.168.1.12,unknown2.example.com,A,NXDOMAIN
+10:00:08,192.168.1.12,unknown3.example.com,A,NXDOMAIN
+10:00:09,192.168.1.12,unknown4.example.com,A,NXDOMAIN
+10:00:10,192.168.1.12,unknown5.example.com,A,NXDOMAIN
