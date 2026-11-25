@@ -1,6 +1,0 @@
-timestamp,domain,query_type,response
-2026-11-23T10:03:01,alpha.example,A,200
-2026-11-23T10:03:02,beta.example,AAAA,200
-2026-11-23T10:03:03,alpha.example,A,200
-2026-11-23T10:03:04,gamma.example,A,200
-2026-11-23T10:03:05,beta.example,AAAA,200

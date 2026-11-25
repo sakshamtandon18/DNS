@@ -1,6 +1,0 @@
-timestamp,domain,query_type,response
-2026-11-23T10:01:02,example.com,A,200
-2026-11-23T10:01:05,university.edu,A,200
-2026-11-23T10:01:09,cloudflare.com,AAAA,200
-2026-11-23T10:01:12,example.com,A,200
-2026-11-23T10:01:18,docs.python.org,A,200
